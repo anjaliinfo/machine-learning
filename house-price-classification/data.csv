@@ -1,0 +1,10 @@
+Size,Bedrooms,Age,Parking,Location,Category
+800,1,20,0,Suburb,Low
+900,2,15,1,Suburb,Low
+1000,2,10,1,City,Medium
+1100,3,8,1,City,Medium
+1200,3,5,1,City,Medium
+1300,3,3,2,City,High
+1400,4,2,2,Prime,High
+1500,4,1,2,Prime,High
+1600,5,1,2,Prime,High
