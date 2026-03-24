@@ -25,7 +25,7 @@ Model learns from only input data
   
 2. Dimensionality reduction
     
-       from sklearn.decomposition import PCA
+      from sklearn.decomposition import PCA
       import numpy as np
       
       X = np.array([
