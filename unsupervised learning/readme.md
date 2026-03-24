@@ -3,7 +3,7 @@ Model learns from only input data
 
 # Unsupervised Learning types:
 
-1. Clustering
+# 1. Clustering
 
 <img width="611" height="72" alt="image" src="https://github.com/user-attachments/assets/5fe4c6be-fa96-4fe3-9a46-cd8700ee73d8" /> 
 
@@ -23,7 +23,7 @@ Model learns from only input data
     
     print(model.labels_)
   
-2. Dimensionality reduction
+# 2. Dimensionality reduction
     
           from sklearn.decomposition import PCA
           import numpy as np
