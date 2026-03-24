@@ -19,7 +19,7 @@ Supervised Learning is a type of Machine Learning (ML) where a model learns from
     
     print(model.predict([[2]]))
 
-    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/47e53a57-e9a6-47d7-9bb5-7d84c85c765b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/47e53a57-e9a6-47d7-9bb5-7d84c85c765b" />
 
   # 2. Regression
 
