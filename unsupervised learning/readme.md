@@ -23,26 +23,23 @@ from sklearn.cluster import KMeans
     
     print(model.labels_)
   
-2. Dimensionality reduction
-
-   from sklearn.decomposition import PCA
-  import numpy as np
-  
-  X = np.array([
-      [1,2],
-      [3,4],
-      [5,6]
-  ])
-  
-  pca = PCA(n_components=1)
-  
-  result = pca.fit_transform(X)
-  
-  print(result)
+    2. Dimensionality reduction
+    
+       from sklearn.decomposition import PCA
+      import numpy as np
+      
+      X = np.array([
+          [1,2],
+          [3,4],
+          [5,6]
+      ])
+      
+      pca = PCA(n_components=1)
+      
+      result = pca.fit_transform(X)
+      
+      print(result)
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/32deb185-0b03-4e74-ad5a-b7569ebb59d7" />
-
-# Supervised Learning 
- Supervised Learning is a type of Machine Learning (ML) where a model learns from data that already has the correct answers.
 
 
