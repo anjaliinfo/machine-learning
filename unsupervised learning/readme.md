@@ -8,7 +8,7 @@ Model learns from only input data
 <img width="611" height="72" alt="image" src="https://github.com/user-attachments/assets/5fe4c6be-fa96-4fe3-9a46-cd8700ee73d8" /> 
 
 # Customer data. age  spending
-  from sklearn.cluster import KMeans
+    from sklearn.cluster import KMeans
 
     X = [
         [20,2000],
