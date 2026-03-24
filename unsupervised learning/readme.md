@@ -25,20 +25,17 @@ Model learns from only input data
   
 2. Dimensionality reduction
     
-      from sklearn.decomposition import PCA
-      import numpy as np
-      
-      X = np.array([
-          [1,2],
-          [3,4],
-          [5,6]
-      ])
-      
-      pca = PCA(n_components=1)
-      
-      result = pca.fit_transform(X)
-      
-      print(result)
+          from sklearn.decomposition import PCA
+          import numpy as np
+          
+          X = np.array([
+              [1,2],
+              [3,4],
+              [5,6]
+          ])
+          pca = PCA(n_components=1)
+          result = pca.fit_transform(X)
+           print(result)
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/32deb185-0b03-4e74-ad5a-b7569ebb59d7" />
 
