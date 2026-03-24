@@ -23,7 +23,7 @@ Model learns from only input data
     
     print(model.labels_)
   
-    2. Dimensionality reduction
+2. Dimensionality reduction
     
        from sklearn.decomposition import PCA
       import numpy as np
